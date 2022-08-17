@@ -1,0 +1,15 @@
+version: "3.8"
+services:
+  sqlserver:
+    image: "mcr.microsoft.com/mssql/server"
+    environment:
+      SA_PASSWORD: "root@1234"
+      ACCEPT_EULA: "Y"
+    restart: unless-stopped
+    ports:
+      - 1433:1433
+    volumes:
+      - sqlserver_data:/var/opt/mssql
+volumes:
+  sqlserver_data:
+    driver: local
