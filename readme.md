@@ -4,7 +4,7 @@
 docker-compose: Tổng hợp các file docker-compose 
 ```
 ```sh
-Tài liệu Docker: Tổng hợp tài liệu Docker sưu trên mạng và của mình
+docs: Tổng hợp tài liệu Docker sưu trên mạng và của mình
 ```
 --------------------------------
 ## 1. Cài đặt Docker:
@@ -23,12 +23,9 @@ https://www.youtube.com/watch?v=JJ6_bg2AjT4&t=333s
 ```sh
 https://docs.docker.com/desktop/windows/install/
 ```
-
 ## 2. Tài liệu về docker
 
-
 - Video giới thiệu về Docker cho người mới bắt đầu 
-
 ```sh
 https://www.youtube.com/watch?v=0JFK_e1cDFo&t=981s
 ```
