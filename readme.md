@@ -1,4 +1,10 @@
 ## MÔ TẢ
+
+```sh
+- Tổng hợp tài liệu về Docker
+- Các file docker compose mẫu 
+- Các file Dockerfile mẫu
+```
 - Cấu trúc thư mục:
 ```sh
 docker-compose: Tổng hợp các file docker-compose 
