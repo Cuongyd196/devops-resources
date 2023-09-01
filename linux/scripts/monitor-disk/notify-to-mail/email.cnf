@@ -1,0 +1,5 @@
+# HDSentinel Email configuration
+EMAIL_FROM="<SENDER EMAIL GOES HERE>"
+EMAIL_TO="<RECIPIENT EMAIL GOES HERE>"
+EMAIL_SUBJECT="HDSentinel Report"
+
