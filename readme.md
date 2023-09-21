@@ -1,5 +1,6 @@
 
-# DevOps Resources
+## ⭐️ If you like this Repo, give it a star on GitHub! ⭐️
+
 - [Repo: https://github.com/Cuongyd196/devops-resources](https://github.com/Cuongyd196/devops-resources)
 
 - [Website: https://devops.cuongit.net](https://devops.cuongit.net)
@@ -9,4 +10,3 @@
     - [Docker](https://devops.cuongit.net/docs/docker/intro/)
 
 
-## ⭐️ If you like this Repo, give it a star on GitHub! ⭐️
