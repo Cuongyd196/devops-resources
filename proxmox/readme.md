@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=MYXsAXuexwQ&t=2234s
 
 
 ## Tài liệu sưu tầm về Proxmox
-[1. Setup Proxmox - Tạo FreeNas trên Proxmox](../assets/files/Proxmox.pdf))]
+[1. Setup Proxmox - Tạo FreeNas trên Proxmox](../assets/files/Proxmox.pdf)
