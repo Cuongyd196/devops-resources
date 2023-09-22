@@ -5,30 +5,38 @@
 [Slide và file tài liệu pdf về Docker](https://github.com/Cuongyd196/devops-resources/tree/main/docker/files)
 
 --------------------------------
-## 1. Cài đặt Docker:
-### 1.1. Hướng dẫn cài dặt docker trên ubuntu
-```sh
-https://www.youtube.com/watch?v=wjxI8FWO-uI
-```
+## Một số video youtube về docker:
+[Full Docker là gì? | Hướng dẫn đầy đủ nhất về Docker và Compose by 
+nbstudio](https://www.youtube.com/watch?v=yWCse8S2qsM&t=3435s)
+
+[Learn Docker - DevOps with Node.js & Express by freeCodeCamp.org](https://www.youtube.com/watch?v=9zUHg7xjIqQ&t=4s)
+
+[Video giới thiệu về Docker cho người mới bắt đầu ](https://www.youtube.com/watch?v=0JFK_e1cDFo&t=981s)
+
+
+## Cài đặt Docker:
+
+[Video hướng dẫn cài dặt docker trên ubuntu](https://www.youtube.com/watch?v=wjxI8FWO-uI)
+
 ```sh
 https://docs.docker.com/engine/install/ubuntu/
 ```
 
-### 1.2. Hướng dẫn cài dặt docker trên windows
-```sh
-https://www.youtube.com/watch?v=JJ6_bg2AjT4&t=333s
-```
+
+[Video hướng dẫn cài dặt docker trên windows](https://www.youtube.com/watch?v=JJ6_bg2AjT4&t=333s)
+
 ```sh
 https://docs.docker.com/desktop/windows/install/
 ```
-## 2. Tài liệu về docker
+## Nguồn học Docker:
 
-- Video giới thiệu về Docker cho người mới bắt đầu 
-```sh
-https://www.youtube.com/watch?v=0JFK_e1cDFo&t=981s
-```
-- Hướng dẫn về docker-compose:
+[https://github.com/hocchudong/ghichep-docker](https://github.com/hocchudong/ghichep-docker)
 
-```sh
-https://docs.docker.com/compose/
-```
+[https://docs.docker.com/compose/](https://docs.docker.com/compose/)
+
+[https://devops.cuongit.net/docs/docker/intro/](https://devops.cuongit.net/docs/docker/intro/)
+
+[Group FB Thảo luận Lập trình và chia sẻ](https://www.facebook.com/groups/863144604543563)
+
+
+Updating...
