@@ -1,6 +1,8 @@
-#Docker
+# Docker
 
-[Hướng dẫn chi tiết về Docker](https://devops.cuongit.net/docs/docker/intro/)
+[Hướng dẫn về Docker](https://devops.cuongit.net/docs/docker/intro/)
+
+[Slide và file tài liệu pdf về Docker](https://github.com/Cuongyd196/devops-resources/tree/main/docker/files)
 
 --------------------------------
 ## 1. Cài đặt Docker:
