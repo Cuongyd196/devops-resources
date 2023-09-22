@@ -21,3 +21,5 @@ https://www.youtube.com/watch?v=MYXsAXuexwQ&t=2234s
 [1. Setup Proxmox - Tạo FreeNas trên Proxmox](./files/Proxmox.pdf)
 
 [2. proxmox-zfs over iscsi [By Group QT&BMHT]](./files/proxmox-zfs%20over%20iscsi%20[By%20Group%20QT&BMHT].pdf)
+
+[3. Mastering Proxmox - Third Editi - Wasim Ahmed (English)](https://drive.google.com/file/d/1Lvw205vXFfBtoKwzpunpxmlKEKvbHKui/view?usp=sharing)
