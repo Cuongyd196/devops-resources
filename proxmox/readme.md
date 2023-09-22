@@ -15,6 +15,9 @@ https://www.youtube.com/watch?v=MYXsAXuexwQ&t=2234s
 
 ## Tài liệu sưu tầm về Proxmox
 
+[=>> Link tất cả tài liệu](https://github.com/Cuongyd196/devops-resources/tree/main/proxmox/files)
+
+
 [1. Setup Proxmox - Tạo FreeNas trên Proxmox](./files/Proxmox.pdf)
 
 [2. proxmox-zfs over iscsi [By Group QT&BMHT]](./files/proxmox-zfs%20over%20iscsi%20[By%20Group%20QT&BMHT].pdf)
