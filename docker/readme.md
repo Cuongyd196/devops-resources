@@ -34,8 +34,6 @@ https://docs.docker.com/desktop/windows/install/
 
 [https://docs.docker.com/compose/](https://docs.docker.com/compose/)
 
-[https://devops.cuongit.net/docs/docker/intro/](https://devops.cuongit.net/docs/docker/intro/)
-
 [Group FB Thảo luận Lập trình và chia sẻ](https://www.facebook.com/groups/863144604543563)
 
 
