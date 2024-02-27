@@ -3,10 +3,8 @@
 
 - [Repo: https://github.com/Cuongyd196/devops-resources](https://github.com/Cuongyd196/devops-resources)
 
-- [Website: https://devops.cuongit.net](https://devops.cuongit.net)
+- [Website: [https://devops.cuongit.net](https://cuongit.net/category/devops/)]
 
-    - [Roadmap DevOps](https://devops.cuongit.net/docs/devops/intro)
-
-    - [Docker](https://devops.cuongit.net/docs/docker/intro/)
+    - [Docker](https://cuongit.net/category/devops/docker/)
 
 
