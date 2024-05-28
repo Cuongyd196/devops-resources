@@ -7,7 +7,7 @@ services:
       mysql_pass: ${mysql_pass:-admin}
     ports:
       - target: 80
-        published: 89
+        published: 80
         mode: host
     volumes:
       - vtiger_source_volume:/var/www/html/
