@@ -1,0 +1,24 @@
+FROM ubuntu:20.04
+USER root
+WORKDIR /home
+RUN apt-get update && apt-get -y upgrade
+RUN apt-get install -y \
+    python3.8 \
+    python3-pip \
+    cron \
+    nano
+
+ENV TZ=Asia/Ho_Chi_Minh
+ARG DEBIAN_FRONTEND=noninteractive
+RUN echo $TZ > /etc/timezone && \
+    apt-get update && apt-get install -y tzdata && \
+    rm /etc/localtime && \
+    ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && \
+    dpkg-reconfigure -f noninteractive tzdata && \
+    apt-get clean
+
+COPY . .
+RUN pip install --no-cache-dir -r /home/requirements.txt
+# .....
+RUN touch /var/log/cron.log
+CMD cron && tail -f /var/log/cron.log

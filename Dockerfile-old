@@ -1,0 +1,16 @@
+FROM node:16.16.0-alpine3.16 as build-step
+RUN apk add --update --no-cache autoconf libtool automake nasm gcc make g++ zlib-dev tzdata
+WORKDIR /app
+COPY package*.json .
+COPY yarn.lock .
+RUN npm install
+COPY . .
+RUN npm run build
+
+FROM nginx:1.18.0-alpine
+RUN apk update && apk add tzdata
+ENV TZ=Asia/Ho_Chi_Minh
+COPY ./nginx.conf /etc/nginx/conf.d/default.conf
+COPY --from=build-step /app/build /usr/share/nginx/html
+CMD ["nginx", "-g", "daemon off;"]
+EXPOSE 80

@@ -1,0 +1,13 @@
+version: "3.6"
+services:
+  devopsdocsweb:
+    image: "devopsdocsweb:latest"
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: any
+    environment:
+      PORT: 80
+      NODE_ENV: "production"
+    ports:
+      - "8087:80"

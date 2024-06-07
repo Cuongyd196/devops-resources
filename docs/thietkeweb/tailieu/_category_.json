@@ -1,0 +1,8 @@
+{
+  "label": "Tài liệu internet",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Tài liệu liên quan đến thiết kế web."
+  }
+}

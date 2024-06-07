@@ -1,0 +1,11 @@
+version: '3.7'
+services:
+  database:
+    image: store/oracle/database-enterprise:12.1.0.2
+    volumes:
+      - oradata:/opt/oracle/oradata # persistent oracle database data.
+    ports:
+      - 1521:1521
+volumes:
+  oradata:
+    driver: local

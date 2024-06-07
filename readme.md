@@ -1,13 +1,8 @@
+# CuongIT Docs
 
-## ⭐️ If you like this Repo, give it a star on GitHub! ⭐️
+# DevOps Docs
+- [devops-resources](https://github.com/Cuongyd196/devops-resources)
 
-- [Repo: https://github.com/Cuongyd196/devops-resources](https://github.com/Cuongyd196/devops-resources)
+- [Roadmap DevOps](https://devops.cuongit.net/docs/devops/intro)
 
-- [Website: https://cuongit.net](https://cuongit.net/category/devops/)
-    - [Linux](https://cuongit.net/category/devops/linux/)
-
-    - [Docker](https://cuongit.net/category/devops/docker/)
-      
-    - [Ảo hoá](https://cuongit.net/category/devops/ao-hoa/)
-
-
+- [Docker](https://devops.cuongit.net/docs/docker/intro/)
