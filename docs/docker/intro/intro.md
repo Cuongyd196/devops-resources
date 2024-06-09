@@ -29,7 +29,7 @@ Nguồn: https://www.docker.com/resources/what-container
 - **Tính bảo mật**: Docker giúp bạn có thể cô lập các ứng dụng của mình trong các container riêng biệt, giúp bạn có thể kiểm soát các tài nguyên của mình một cách chặt chẽ hơn, giúp bạn có thể chạy nhiều container trên một máy chủ mà không lo lắng về sự xung đột về tài nguyên.
 
 ### Kiến trúc của Docker
-![docker-architecture](https://docs.docker.com/assets/images/architecture.svg)
+![docker-architecture](https://docs.docker.com/get-started/images/docker-architecture.webp)
 Nguồn: https://docs.docker.com/get-started/overview/
 
 ## Video hướng dẫn về docker cho người mới bắt đầu
