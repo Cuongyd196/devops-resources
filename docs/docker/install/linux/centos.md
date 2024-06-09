@@ -3,8 +3,7 @@ sidebar_position: 1
 ---
 
 # CentOS 7
-
-+ Xóa Docker version cũ trước đó nếu đã cài đặt
+- Xóa Docker version cũ trước đó nếu đã cài đặt
 ```
 yum remove docker \
     docker-client \
@@ -16,12 +15,12 @@ yum remove docker \
     docker-engine
 ```
 
-+ Cài đặt gói yum-utils
+- Cài đặt gói yum-utils
 ```
 yum install -y yum-utils
 ```
 
-+ Config repo:
+- Config repo:
 ```
 yum-config-manager \
     --add-repo \
