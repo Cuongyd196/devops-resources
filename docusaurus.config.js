@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'CuongIT',
-  tagline: 'http://devops.cuongit.net',
+  title: 'CuongITDocs',
+  tagline: 'https://devops.cuongit.net',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'devops-resources', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -102,7 +102,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'DevOps Docs',
+        title: 'CuongITDocs',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -155,16 +155,12 @@ const config = {
             title: 'Cộng đồng',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Lập trình và chia sẻ',
+                href: 'https://www.facebook.com/groups/863144604543563',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Youtube',
+                href: 'https://www.youtube.com/@cuongit',
               },
             ],
           },
@@ -172,17 +168,17 @@ const config = {
             title: 'Link',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Blog CuongIT',
+                href: 'https://cuongit.net',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/Cuongyd196/devops-resources',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} CuongIT Docs. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} CuongIT. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
