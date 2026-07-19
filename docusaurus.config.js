@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'CuongITDocs',
-  tagline: 'Thạc sĩ Khoa học Máy tính | DevOps Engineer | Lập trình viên',
+  tagline: 'DevOps Engineer | Lập trình viên',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -111,12 +111,6 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'dockerSidebar',
-            position: 'left',
-            label: 'Docker',
-          },
-          {
-            type: 'docSidebar',
             sidebarId: 'devopsSidebar',
             position: 'left',
             label: 'Roadmap',
@@ -172,7 +166,7 @@ const config = {
                 href: 'https://www.facebook.com/groups/863144604543563',
               },
               {
-                label: 'Nhóm Zalo Tự Học AI',
+                label: 'Nhóm Zalo Cộng Đồng IT',
                 href: 'https://zalo.me/g/floiqs254',
               },
             ],
