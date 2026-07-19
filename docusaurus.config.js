@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'CuongITDocs',
-  tagline: 'https://devops.cuongit.net',
+  tagline: 'Thạc sĩ Khoa học Máy tính | DevOps Engineer | Lập trình viên',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -144,11 +144,19 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Tài liệu',
+            title: 'Tài liệu & Blog',
             items: [
               {
-                label: 'DevOps',
+                label: 'Lộ trình DevOps',
                 to: '/docs/devops/intro',
+              },
+              {
+                label: 'Blog Cá Nhân (CuongIT.net)',
+                href: 'https://blog.cuongit.net',
+              },
+              {
+                label: 'CV (TopCV Profile)',
+                href: 'https://www.topcv.vn/p/cuongyd196',
               },
             ],
           },
@@ -156,30 +164,46 @@ const config = {
             title: 'Cộng đồng',
             items: [
               {
-                label: 'Lập trình và chia sẻ',
+                label: 'Nhóm Dev, DevOps & AI',
                 href: 'https://www.facebook.com/groups/863144604543563',
               },
               {
-                label: 'Youtube',
-                href: 'https://www.youtube.com/@cuongit',
+                label: 'Nhóm AI Thực Chiến',
+                href: 'https://www.facebook.com/groups/863144604543563',
+              },
+              {
+                label: 'Nhóm Zalo Tự Học AI',
+                href: 'https://zalo.me/g/floiqs254',
               },
             ],
           },
           {
-            title: 'Link',
+            title: 'Mạng xã hội',
             items: [
               {
-                label: 'Blog CuongIT',
-                href: 'https://cuongit.net',
+                label: 'Facebook Cá Nhân',
+                href: 'https://www.facebook.com/cuongppk',
+              },
+              {
+                label: 'Page FB Cường IT',
+                href: 'https://www.facebook.com/cuongit96',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/Cuongyd196/devops-resources',
+                href: 'https://github.com/Cuongyd196',
+              },
+              {
+                label: 'TikTok',
+                href: 'https://www.tiktok.com/@cuongit96',
+              },
+              {
+                label: 'YouTube',
+                href: 'https://www.youtube.com/@cuongit',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} CuongIT. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Nguyễn Văn Cường. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
