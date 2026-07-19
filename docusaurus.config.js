@@ -106,7 +106,7 @@ const config = {
         title: 'CuongITDocs',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: '/img/logo.svg',
         },
         items: [
           {
